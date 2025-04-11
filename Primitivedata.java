@@ -9,6 +9,7 @@ class Primitivedata
         long n2=5678;
         short n3= 567;
         byte n4=100;
+		int n2=15;
         
         // float type
 
