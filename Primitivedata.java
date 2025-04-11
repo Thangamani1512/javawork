@@ -4,6 +4,7 @@ class Primitivedata
     {
 
         //integer type
+		// inserting here
         int n1=20;
         long n2=5678;
         short n3= 567;
